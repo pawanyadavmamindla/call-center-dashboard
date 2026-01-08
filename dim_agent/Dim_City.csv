@@ -1,0 +1,14 @@
+CityID,CityName,CountryID,Country,Region
+1,Mumbai,1,India,APAC
+2,Delhi,1,India,APAC
+3,Bengaluru,1,India,APAC
+4,Singapore,2,Singapore,APAC
+5,London,3,UK,EMEA
+6,Manchester,3,UK,EMEA
+7,Berlin,4,Germany,EMEA
+8,Hamburg,4,Germany,EMEA
+9,Boston,5,USA,AMER
+10,Chicago,5,USA,AMER
+11,San Francisco,5,USA,AMER
+12,Toronto,6,Canada,AMER
+13,Vancouver,6,Canada,AMER

@@ -1,0 +1,15 @@
+SubCategoryID,SubCategoryName,CategoryID
+1,Not Working,1
+2,Sound Issue,1
+3,Performance,1
+4,Leakage,1
+5,New Install,2
+6,Reinstall,2
+7,Setup Help,2
+8,Warranty,3
+9,Specs,3
+10,Manual Request,3
+11,Return Pickup,4
+12,Refund Status,4
+13,Feature Guidance,5
+14,Settings Support,5
